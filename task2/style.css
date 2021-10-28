@@ -1,0 +1,41 @@
+#consoleLog {
+    color: darkblue;
+    font-size: 220%;
+    font-family: system-ui;
+    text-decoration: underline;
+}
+
+#alert {
+    color: darkblue;
+    font-size: 220%;
+    font-family: system-ui;
+    text-decoration: underline;
+}
+
+#prompt {
+    color: darkblue;
+    font-size: 220%;
+    font-family: system-ui;
+    text-decoration: underline;
+}
+
+#consoleLogHint {
+    color: rgb(53, 48, 48);
+    font-size: 130%;
+    font-family: system-ui;
+    
+}
+
+#alertHint {
+    color: rgb(53, 48, 48);
+    font-size: 130%;
+    font-family: system-ui;
+    
+}
+
+#promptHint {
+    color: rgb(53, 48, 48);
+    font-size: 130%;
+    font-family: system-ui;
+    
+}
